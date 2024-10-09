@@ -10,7 +10,7 @@ pnpm run test [name-of-test-file] --watch
 for example:
 
 ```
-pnpm run test src/79-default/index.test.ts --watch
+pnpm run test src/00-default/index.test.ts --watch
 ```
 
 Test will rerun automatically while you make changes and save index file in this same folder
